@@ -1,19 +1,27 @@
-typography_spectrum: 0.8275366704910994
+layout_spectrum: 1
+description: my first dive at this place
+name: 'diving,travel&photography'
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.8052276
 color:
   brandStrength: 0.5833215585444123
-  lightness: 0.3608442216645926
-  saturation: 0.10286148055456579
-  rhythmicContrast: 0.6560172769241035
+  lightness: 0.1812816
+  saturation: 0.5876897
+  rhythmicContrast: 0.9148398
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.7963855729904026
-name: 'diving,travel&photography'
-navigation:
-  - name: old_Home
-    url: 'http://alesreich.com'
-    type: external
-description: my first dive at this place
