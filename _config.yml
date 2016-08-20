@@ -1,27 +1,14 @@
-typography_spectrum: 0.9923238952178508
+layout_spectrum: 0.7963855729904026
+typography_spectrum: 0.8275366704910994
 color:
-  brandStrength: 0.36976041574962437
-  lightness: 0.8831145593430847
-  saturation: 0.4383062953129411
-  rhythmicContrast: 0.6739813643507659
+  brandStrength: 0.5833215585444123
+  lightness: 0.3608442216645926
+  saturation: 0.10286148055456579
+  rhythmicContrast: 0.6560172769241035
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-layout_spectrum: 0.10254534962587059
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: 'diving,travel&photography'
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
-description: ''
