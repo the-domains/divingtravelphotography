@@ -1,4 +1,3 @@
-layout_spectrum: 0.10254534962587059
 typography_spectrum: 0.9923238952178508
 color:
   brandStrength: 0.36976041574962437
@@ -11,7 +10,7 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-description: my first dive at this place
+layout_spectrum: 0.10254534962587059
 name: 'diving,travel&photography'
 collections:
   - index:
@@ -25,3 +24,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+description: ''
