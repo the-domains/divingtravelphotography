@@ -12,4 +12,8 @@ color:
     - '#253237'
 layout_spectrum: 0.7963855729904026
 name: 'diving,travel&photography'
+navigation:
+  - name: old_Home
+    url: 'http://alesreich.com'
+    type: external
 description: my first dive at this place
