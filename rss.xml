@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[diving,travel&photography]]></title>
+        <description><![CDATA[diving,travel&photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Aug 2016 05:06:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Same window, different view]]></title>
+            <description><![CDATA[<article><h1>Same window, different view</h1><p>The world's 1st truly unlimited photo gallery. 100% free. No limits on number of photos. No shrinking. No ads.</p></article>]]></description>
+            <link>https://www.zonerama.com/Album/14681</link>
+            <guid isPermaLink="false">46a696da-0a20-4d69-9013-77024e3c7362</guid>
+            <pubDate>Sat, 20 Aug 2016 05:06:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
