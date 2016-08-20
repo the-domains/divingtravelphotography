@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T03:34:15.524Z'
+datePublished: '2016-08-20T03:50:49.633Z'
 sourcePath: _posts/2016-08-20-lotus-barge.md
 author:
   - name: Ales Reich
 via: {}
-dateModified: '2016-08-20T03:34:14.523Z'
+dateModified: '2016-08-20T03:50:49.519Z'
 title: Lotus Barge
 publisher: {}
 description: >-
