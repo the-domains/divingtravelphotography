@@ -1,0 +1,14 @@
+layout_spectrum: 0.7963855729904026
+typography_spectrum: 0.8275366704910994
+color:
+  brandStrength: 0.5833215585444123
+  lightness: 0.3608442216645926
+  saturation: 0.10286148055456579
+  rhythmicContrast: 0.6560172769241035
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: 'diving,travel&photography'
