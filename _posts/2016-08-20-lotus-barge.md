@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-08-20T03:56:51.218Z'
-sourcePath: _posts/2016-08-20-lotus-barge.md
-inFeed: true
+id: 27fded67-ae5a-4d5c-9a25-3084a95f32b6
+dateModified: '2016-08-24T15:18:27.188Z'
+title: Lotus Barge
+datePublished: '2016-08-24T15:18:28.139Z'
 author:
   - name: Ales Reich
-via: {}
-dateModified: '2016-08-20T03:56:50.528Z'
-title: Lotus Barge
-publisher: {}
+hasPage: true
 description: >-
   Diving at Lotus Barge. As a “bonus” of season, friends at The IslandScuba
   organised a trip for this newly discovered shipwreck of a steam barge.
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-08-20-lotus-barge.md
+url: lotus-barge/index.html
 _type: Blurb
 
 ---
