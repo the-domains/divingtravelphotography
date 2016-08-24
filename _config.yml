@@ -1,21 +1,6 @@
-typography_spectrum: 0.37195952609181404
-color:
-  brandStrength: 0.36976041574962437
-  lightness: 0.8831145593430847
-  saturation: 0.4383062953129411
-  rhythmicContrast: 0.6739813643507659
-  brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
 layout_spectrum: 0.5775532543193549
+description: ''
 name: 'diving,travel&photography'
-navigation:
-  - name: Lotus Barge
-    id: 27fded67-ae5a-4d5c-9a25-3084a95f32b6
-    type: content
 collections:
   - index:
       navigable: true
@@ -28,4 +13,19 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-description: ''
+navigation:
+  - id: 27fded67-ae5a-4d5c-9a25-3084a95f32b6
+    name: Lotus Barge
+    type: content
+typography_spectrum: 0.7259697
+color:
+  brandStrength: 0.3697604157496244
+  saturation: 0.4383062953129411
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  lightness: 0.8831145593430847
+  rhythmicContrast: 0.6739813643507659
