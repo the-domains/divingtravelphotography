@@ -1,4 +1,3 @@
-layout_spectrum: 0.5775532543193549
 typography_spectrum: 0.37195952609181404
 color:
   brandStrength: 0.36976041574962437
@@ -11,7 +10,12 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.5775532543193549
 name: 'diving,travel&photography'
+navigation:
+  - name: Lotus Barge
+    id: 27fded67-ae5a-4d5c-9a25-3084a95f32b6
+    type: content
 collections:
   - index:
       navigable: true
